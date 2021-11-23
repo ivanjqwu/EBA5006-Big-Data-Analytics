@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "eloquent-life-328614",
+  "private_key_id": "2dfaeed8540aa37e8b1621f5af6873a73bb23e6d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCY6tekPlVDktsa\nylR1aflKIv/Lbl2usLsrcDYIfcLJt+A0UCJrfSpDGzCw/CJpzrA2DYiCv1eu8jWS\n803O0x2//xlZZzk6VEGUVQfwTJ28sBslyn//kgsddEvCDahvDlUo2gmq+okAqsMX\nva4G1OyVwbfp+ozVitTsczHxxzwkpWxlrUhaqA399ACvyk6yZo3RBrGHy5tJ5n3P\nlv2546gQnQdUgw0gnbUhqHwh6Z9k2+XUnuhMM4CYXQK1H8S6UWOkZ2Uae52HrDBs\nws1mh5CI1Mm9nvj2CNmLNVFZ7j+a8Ta18hAddNOK0ZF6Bq9ybevW5rgo1c6UUhu6\nqEZ4+ZHBAgMBAAECggEAAKr77KN6D1y/mL8b/dRL6rM670pI3fe3JZIspj5YYLWt\nJMVZ1SLbkaX3gTpksxYcRmwqNbn8uc6khcMKyrW42ksUswOEqDjQfYOekIHhKX8S\na0iWZQkgA82rfAo/u1ZycEZ9htHn0cktJ3gkX7LD4saRFVRLE66yzeKV7AKtBFLz\n6wdfeS2SwkIAlpiiqA8pW47FJVhvzV9M/uxeLbcXazCkgEQ/w5qlBIiSC6Chdt98\nHwFonDuNNol/UEoavvckQGSfSJZwpvxUre+jdz7dbK37uNb0fH1r88088bhDSxUC\n3wyWrcn1naIGEsCdr05UgiczEYTeKK+HHkofKpglAQKBgQDGtwdCLiI5h2JKWvqE\nvUfxSGHX310xbwwCIlOPuOqfkNHD3cigSSoop9diXM73wWnmvJSVqqxob3/oPnqN\nmOyp6kKzMgwOAZtnRrUnBhNuJGigSuqfcifTqQnGtDOY8eMEezJINqACTs1UvTLT\nZHe6C5yUEZa65I8HLl9O4jNEoQKBgQDE//7IpMR9MbJE40GWzppTc0oeMaLSqVmY\nUX5dKTMLYKlU+/t1sUz74iZwHmEALFJ6EmyYQwgmKnbWPQjmlDDiY0iIlNcWaMqo\nRGZGkHOI+dtemFTQD+xA7r5wFDdlvK6Lm5hzRi03jUZ01UCTdenXCQkauoRzjg7T\nbP4bZGoZIQKBgQDBEO7yc9Q4xLrQt1gTQ7v0R3kYviHTd6rZH/TD/MuoQJItlPvq\nD2vwmDIBlV5ZBQgZcDuEtpBP35UMVjfH/z5hUAOCCyv/J7yPOPmkcpjKOIGWy3Lt\ne4IKeX/QGSDQhqMkpXWTB8+qrll87V3GWSSiE8oLapNh/dKhDYL4J3ncQQKBgHz2\ndkQIYKuZrp+MGLr062gsJcPpcIN48WBxsVqfG8YH1uIVxXjuswrEdeWBH77gXqEY\nttIPE0hCf4d+x/qb3jZ9DDG3WIjaiFMcsFPqpZ8p/0GOF56zuwWlbB/kcw+SFJZy\naM4WofAvKZZK/9+KWH8TODdAQWybnEP5S2dM1xCBAoGAdD9zqp0cqH9u6m35eSO+\nj0zhcW5hAsbV3jagoCLuKQ9MZ+KqAnl/OeVr261Gl+LDKmAQR52BF+LBfkoimILI\nNOiY9T/dYi/r9m3ilhm//VnP2NmE+L/SQlyphc20t1g2EViGwa4EvHonF2zNEy0h\nTr3M8HvW0h/NdVZfi1lmVRk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "project-streaming@eloquent-life-328614.iam.gserviceaccount.com",
+  "client_id": "102614016398288565115",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/project-streaming%40eloquent-life-328614.iam.gserviceaccount.com"
+}
